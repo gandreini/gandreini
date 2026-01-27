@@ -4,5 +4,5 @@
 
 ## Current Projects
 
-- 🏄 **[Mondo](https://www.mondo.surf/)** - the AI that actually does things
-- 🌊 **[SunMoonTides](https://github.com/gandreini/sun-moon-tides)** - Turn any browser into your terminal; command agents from the road (vt.sh)
+- 🏄 **[Mondo](https://www.mondo.surf/)** - The surf atlas and forecast app
+- 🌊 **[SunMoonTides](https://github.com/gandreini/sun-moon-tides)** - REST API for tide predictions and astronomy data 
