@@ -5,4 +5,5 @@
 ## Current Projects
 
 - 🏄 **[Mondo](https://www.mondo.surf/)** - The surf atlas and forecast app
-- 🌊 **[SunMoonTides](https://github.com/gandreini/sun-moon-tides)** - REST API for tide predictions and astronomy data 
+- 🌊 **[SunMoonTides](https://github.com/gandreini/sun-moon-tides)** - REST API for tide predictions and astronomy data
+- 📋 **[Team Performance Diary](https://github.com/gandreini/team-performance-diary)** – Self-hosted tool for tracking team feedback, goals, and performance reviews
