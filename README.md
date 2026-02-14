@@ -2,7 +2,7 @@
 
 📍 **Tuscany** | 🕺 **Lead Product Designer @ n8n** | 🌊 **Full Stack Builder @ Mondo**
 
-## Current Projects
+## Current and past projects
 
 - 🏄 **[Mondo](https://www.mondo.surf/)** - The surf atlas and forecast app
 - 🌊 **[SunMoonTides](https://github.com/gandreini/sun-moon-tides)** - Open source REST API for tide predictions and astronomy data
